@@ -1,0 +1,28 @@
+-->  INFO
+
+This is a Windows 11 customisation made by Dynamic1619
+The style is inspired to be minimalistic and clean
+
+-->  THANKS
+
+TaskbarXI
+Rainmeter
+JuxCore
+Droptop
+
+--> INSTRUCTIONS
+
+Install all of applications in this folder.
+Head over to ./WnjitsuOS/Setup and set the wallpaper
+Use the setting images to setup each app
+Head over to ./WinjitsuCursor/CursorFiles and install (install.inf)
+Go to Cursor Settings and then to pointer and select VS Cursor
+After you're all set!
+
+--> SOCIAL
+
+Youtube.com/c/Dynamic1619
+GitHub.com/Dynamic-Codes
+
+
+:Thanks for trying my style out :)
